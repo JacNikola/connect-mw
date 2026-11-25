@@ -1,0 +1,3 @@
+node_modules/
+# Intermediate build output; build.mjs inlines these into connect-mw.html
+connect-mw-src/dist/
